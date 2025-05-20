@@ -6,7 +6,7 @@ Smart Translator is a user-friendly tool designed to help you translate text acr
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](translator/img/Screenshot 2025-05-20 192626.png)
 
 
 ## Support
@@ -21,5 +21,5 @@ For support, email rajsh98263@gmail.com or join our Slack channel.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@rajsharma810](https://www.github.com/rajsharma810)
 
