@@ -6,7 +6,7 @@ Smart Translator is a user-friendly tool designed to help you translate text acr
 
 ## Screenshots
 
-![App Screenshot](translator/img/Screenshot 2025-05-20 192626.png)
+![App Screenshot] url(translator/img/Screenshot 2025-05-20 192626.png)
 
 
 ## Support
